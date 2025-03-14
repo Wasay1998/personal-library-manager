@@ -14,9 +14,7 @@ Automatically saves your library to a file (library.txt) so no data is lost!
 # 📖 How to Use
 
 Run the script, and you’ll see a menu with options:
-css
-Copy
-Edit
+
 Welcome to the Wasay Library Manager  
 1. Add a book  
 2. Remove a book  
@@ -29,9 +27,6 @@ Your library will be saved automatically when you exit.
 
 # 📝 Example Usage
 
-yaml
-Copy
-Edit
 Enter the title of the book: Harry Potter and the Sorcerer's Stone  
 Enter the author: J.K. Rowling  
 Enter the year of the book: 1997  
@@ -50,4 +45,4 @@ This project was created as part of an assignment to build a simple book managem
 
 # 🏆 About Me
 
-Hi, I’m **Abdul Wasay,** a passionate developer learning Python and exploring new projects every day. Connect with me on LinkedIn or check out my other projects on GitHub. 🚀
+Hi, I’m Abdul Wasay, a passionate developer with a keen interest in Python and a love for building meaningful projects. I enjoy exploring new technologies, solving problems, and continuously learning to improve my skills. Every project I create is a step forward in my coding journey, and I’m excited to see where it takes me next! 🚀
