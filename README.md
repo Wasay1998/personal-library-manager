@@ -1,4 +1,5 @@
-Personal Library Manager 📚
+# Personal Library Manager 📚
+
 A simple command-line Python application to manage your personal book collection!
 
 🚀 Features
